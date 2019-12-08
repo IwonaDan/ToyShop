@@ -1,0 +1,61 @@
+[{
+    "productId": 1,
+    "productName": "Harry Potter LEGO",
+    "productCode": "GDN-0011",
+    "releaseDate": "March 19, 2019",
+    "description": "Recall your happiest memories and use the Expecto Patronum spell to conjure up a deer - Harry's patron, as in the movie 'Harry Potter and the Prisoner of Azkaban.' Will Harry succeed? You decide ... Young wizards and witches can help Harry Potter defend Sirius Black from Dementors! With the LEGO Harry Potter 75945 Expecto Patronum set for children from the age of 7, young lovers of Harry Potter will move into the magical world of wizards, Dementors and mythical creatures..",
+    "price": 19.95,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/harryPotter.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Police LEGO",
+    "productCode": "GDN-0023",
+    "releaseDate": "March 18, 2019",
+    "description": "Outrun the villains with a super fast vehicle from the Police Chase kit! This impressive LEGO® Technic police car is built of blue, white and black parts and decorated with police stickers. It is equipped with a red-blue rooster, an aerodynamic bumper at the front, a large spoiler at the rear and adhesive low-profile tires with wide black rims. Don't forget to run a powerful pull-back drive that provides great acceleration and power. Outrun the competition with a super fast vehicle from the Police Chase kit! Start the pull-back drive and start the dynamic chase by police car from LEGO Technic 42091 Police chase!",
+    "price": 32.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/policeCars.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Speed Cars LEGO",
+    "productCode": "TBX-0048",
+    "releaseDate": "May 21, 2019",
+    "description": "Set records in the LEGO Speed ​​Champions 75892 set! Check how this super fast road car is doing in the wind tunnel, and then change its rims. Sit the driver in the cabin and demonstrate your skills on the race track! Build a McLaren Senna model and make the impossible! Taste the extreme life of a racer in the LEGO Speed ​​Champions 75892 McLaren Senna set. The set includes a replica of an amazing road car built of LEGO blocks, inspired by the character of the late racing driver Ayrton Senna, who was known for his skills and reckless driving. The model is equipped with a minifigure cockpit, removable windscreen, replaceable rims and stickers with the McLaren and Senna logos. This great racing set for kids also includes a wind tunnel with a rotating fan and a McLaren racing driver minifigure to play unforgettable races and car tests.",
+    "price": 8.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/speedCars.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Star Plane LEGO",
+    "productCode": "TBX-0022",
+    "releaseDate": "May 15, 2019",
+    "description": "The LEGO City Space Agency needs your help! Join the astronauts who will make an exciting journey to Mars. Put the helmet on the astronaut and put him on a research shuttle. Take off and get ready to put the satellite in orbit. Another successful stage of the research expedition to Mars!",
+    "price": 11.55,
+    "starRating": 3.7,
+    "imageUrl": "assets/images/starPlane.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Star Wars LEGO",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2018",
+    "description": "Get ready for another daring mission in the super-fast A-Wing fighter. Help the lovable C-3PO droid check the machine at the service station. Then put the pilot in control, turn on the engines and get ready to take off! Play with your kid the iconic C-3PO droid and rebel A-Wing fighter in the hangar! Introduce your toddler to a world of exciting adventures with the LEGO Star Wars 75247 Rebel A-Wing fighter. This LEGO 4+ safe educational set has been designed for preschoolers and toddlers.",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/starWars.jpg"
+  },
+  {
+    "productId": 6,
+    "productName": "Tank LEGO",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2018",
+    "description": "Get ready for a shooting competition with your friends in the LEGO Star Wars Defense of the Echo Base set. Build an entrance gate to the Rebel base, tower with blaster, trench and walking machine. Then set up Rebel and Snow Stormtroopers, load your blasters, aim and hit the enemy shields. Can you knock the walking machine to the ground before it breaks through the gate and breaks into the Echo base? The outcome of the Battle of Hoth depends entirely on you! Build an interesting construction toy set showing the battle for Hoth from the LEGO Star Wars series! LEGO Star Wars 75241 Defense of the Echo Base is a new proposition for building and having fun. Collapsing LEGO bricks together is great entertainment for family and friends. A scene from the Echo base from the movie 'Star Wars: The Empire Strikes Back' is to be built. The model consists of an entrance gate to the Rebel base, a tower with a blaster, a fragment of a trench with a reconnaissance droid and a walking machine of the Empire. Both sides load their powerful blasters and take turns trying to hit the enemy's shields. Thanks to this, they can throw rebel minifigures and snow stormtroopers into the air, blow up the gate and knock over the walking machine. This addictive LEGO Star Wars construction set provides hours of ingenious battle fun for kids of all ages. Includes five LEGO Star Wars minifigures.",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "assets/images/tankLego.jpg"
+  }
+]
